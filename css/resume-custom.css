@@ -21,6 +21,10 @@
     font-size: 20px;
 }
 
+#completed-courses .module a{
+    color: #5cee56;
+}
+
 #page-top nav#sideNav{
     background-color: #82ee71;
 }
